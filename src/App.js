@@ -18,13 +18,19 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
   useEffect(()=>{
     
-    const setDark=localStorage.getItem('dark');
-    console.log(setDark);
-  },[])
+    if (localStorage.getItem('dark') === 'false') {
+      setDarkMode(false);
+    }
+    else{
+      setDarkMode(true);
+    }
+
+  },[darkMode])
 
   return (
     <div className={`${darkMode ? 'dark ' : 'light'} dark:bg-gray-900 dark:text-white`}>
-      <Nav darkMode={darkMode} setDarkMode={setDarkMode} />
+      <Nav darkMode={darkMode} setDarkMode={setDarkMode} 
+       />
       <div className='px-10 dark:bg-gray-900 bg-white dark:text-white'>
         <Banner />
         <Overview />

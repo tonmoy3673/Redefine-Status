@@ -23,6 +23,7 @@ const Nav = ({darkMode,setDarkMode}) => {
                 <div className="relative gap-2">
 
 
+                
                     {/* ================Toggle =============== */}
 
                     <label className="swap swap-rotate mr-4">
@@ -43,7 +44,7 @@ const Nav = ({darkMode,setDarkMode}) => {
                     </span>
                     <div className="form-control ">
 
-                        <input type="text" placeholder="Search" className="input dark:border-white input-bordered dark:bg-gray-900 dark:text-white" />
+                        <input type="text" placeholder="Search" className="input dark:border-white input-bordered dark:bg-gray-900 dark:text-white w-full" />
                     </div>
 
                 </div>
