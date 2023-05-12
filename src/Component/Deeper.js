@@ -221,7 +221,7 @@ const Deeper = () => {
 				<p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">The personal luxury goods market is projected to grow from <a href='https://www.fortunebusinessinsights.com/luxury-goods-market-103866' className="underline hover:underline-offset-4" target='blank'>USD 257.26 billion in 2020 to USD 352.84 billion in 2027</a> </p>
 			</details>
 			<details className="w-full border rounded-lg ">
-				<summary className="px-4 text-lg py-6 focus:outline-none focus-visible:ring-violet-400">The Luxury Cars Market</summary>
+				<summary className="px-4  py-6 focus:outline-none focus-visible:ring-violet-400">The Luxury Cars Market</summary>
 				<p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">The Luxury Cars Market size is expected to grow from <a  href='https://www.globenewswire.com/en/news-release/2022/09/19/2518123/0/en/Luxury-Cars-Market-Size-Worth-USD-655-0-Billion-Globally-by-2027-at-9-3-CAGR.html#:~:text=The%20Luxury%20Cars%20Market%20size,9.3%25%20from%202020%20to%202027.&text=Pune%2C%20India%2C%20Sept.,by%20the%20end%20of%202027.' className="underline hover:underline-offset-4" target='blank'>USD 449.7 Billion in 2019 to USD 655.0 Billion by 2027; It is estimated to grow at a CAGR of 9.3% from 2020 to 2027.</a> </p>
 			</details>
 		</div>

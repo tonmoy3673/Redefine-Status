@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div>
+        <div className='dark:bg-gray-900 dark:text-white'>
             <div className="hero min-h-screen rounded" style={{ backgroundImage: `url("https://redefinestatus.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1568736772245-26914aae0b09%3Fixlib%3Drb-4.0.3%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb&w=3840&q=75")` }}>
                 <div className="hero-overlay bg-opacity-60"></div>
                 <div className="hero-content text-neutral-content">

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Cultural = () => {
     return (
-        <div className='lg:pt-10 md:pt-6 mb-6'>
+        <div className='lg:pt-10 md:pt-6 mb-6 dark:bg-gray-900 dark:text-white'>
             <div className=" ">
                 <div className="text-center">
                     <div className="">
@@ -30,22 +30,22 @@ const Cultural = () => {
 
                    <div className='py-10 px-4'>
                     <h2 className='text-lg font-semibold py-3'>Evidence of this:</h2>
-                   <p className='flex items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
+                   <p className='flex lg:items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                     </svg> <span className='ms-2'>Brands like Gucci are becoming less hip.</span>
                     </p>
 
-                    <p className='flex items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
+                    <p className='flex lg:items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                     </svg> <span className='ms-2'>Designer brands that are in your face are not it.</span>
                     </p>
 
-                    <p className='flex items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
+                    <p className='flex lg:items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                     </svg> <span className='ms-2'>Designer that's low-key is now the trend.</span>
                     </p>
 
-                    <p className='flex items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
+                    <p className='flex lg:items-center mb-3'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                     </svg> <span className='ms-2'>Designer is dialing back as consumers replace spending to these models.</span>
                     </p>
