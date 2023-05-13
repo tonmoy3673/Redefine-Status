@@ -3,9 +3,9 @@ import React from 'react';
 const Cultural = () => {
     return (
         <div className='lg:pt-10 md:pt-6 mb-6 dark:bg-gray-900 dark:text-white'>
-            <div className=" ">
+            <div>
                 <div className="text-center">
-                    <div className="">
+                    <div>
                         <h1 className="text-3xl font-bold text-center">Large Scale Cultural Engineering </h1>
                         <h3 className='text-xl font-semibold py-6'>Making Altruism Culturally High Status</h3>
 
