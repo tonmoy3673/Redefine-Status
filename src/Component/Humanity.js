@@ -7,7 +7,7 @@ const Humanity = () => {
 
             <div className="text-center">
                 <div className=" dark:bg-gray-900">
-                    <h1 className="text-3xl font-bold mb-5  dark:bg-gray-900">We have a coordination test for humanity</h1>
+                    <h1 className="text-3xl font-bold mb-5  dark:bg-gray-900"></h1>
                     <p className="py-4 px-4 text-justify mt-4">If we have every individual with a self-interest approach we go into a terrible situation. The more we convert to love for others the better chance we have to pass the test. </p>
                     <p className="py-4 px-4 text-justify mb-3">It wasn't until our culture defined cigarettes as bad that we quit them. They are just as addicting. They become negative status symbols. Hopefully showing the power status has on human behavior. If you thought sex/mating runs the world just wait till you realize that status is above even that.  </p>
 
