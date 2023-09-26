@@ -13,6 +13,10 @@ const Nav = ({darkMode,setDarkMode}) => {
            
         }
 
+const Nav=({darkMode,setDarkMode})=>{
+    const handleDra
+}
+
 
     return (
         <div className='shadow-xl sticky z-50 top-0 dark:bg-gray-900 bg-white dark:text-white pb-5 px-10'>
