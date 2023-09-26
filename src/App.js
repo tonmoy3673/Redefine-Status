@@ -6,9 +6,10 @@ import Deeper from './Component/Deeper';
 import Nav from './Component/Nav';
 import Overview from './Component/Overview';
 import Simple from './Component/Simple';
-import Humanity from './Component/Humanity';
+
 import Footer from './Component/Footer';
 import { useEffect, useState } from 'react';
+import Humanity from './Component/Humanity';
 
 
 
@@ -37,7 +38,7 @@ function App() {
         <Deeper />
         <Simple />
         <Cultural />
-        <Humanity />
+        <Humanity/>
         <Footer />
       </div>
     </div>
