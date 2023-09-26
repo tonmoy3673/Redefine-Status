@@ -13,9 +13,6 @@ const Nav = ({darkMode,setDarkMode}) => {
            
         }
 
-const Nav=({darkMode,setDarkMode})=>{
-    const handleDra
-}
 
 
     return (
